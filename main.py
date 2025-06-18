@@ -111,7 +111,7 @@ st.markdown("""
   Sind deine Website und dein Webshop schon sichtbar für GPT, Claude & Co?
 </h2>
 <p style='margin-top: -8px; font-size: 1.05rem; line-height: 1.5; color: #5C5C5C; font-weight: 500;'>
-  Ohne eine durchdachte <code>robots.txt</code> bleibt LLMO oft wirkungslos.
+  Ohne eine durchdachte robots.txt bleibt LLMO oft wirkungslos.
 </p>
 """, unsafe_allow_html=True)
 
@@ -119,9 +119,9 @@ st.markdown("""
 st.markdown("""
 <p style='font-size: 0.95rem; color: #333333; line-height: 1.6; margin-top: 1.25rem;'>
   Online-Sichtbarkeit endet nicht bei Google.<br>
-  <strong>Viele AI-Crawler folgen Regeln, die kaum jemand kennt: <code>robots.txt</code>.</strong><br>
+  <strong>Viele AI-Crawler folgen Regeln, die kaum jemand kennt: robots.txt.</strong><br>
   Mit diesem Tool prüfst du in Sekunden, ob deine Seite sichtbar ist – auch für GPT, Claude, Perplexity & Co –
-  und erhältst <strong>auf Wunsch eine optimierte <code>robots.txt</code> zum Download.</strong>
+  und erhältst <strong>auf Wunsch eine optimierte robots.txt zum Download.</strong>
 </p>
 """, unsafe_allow_html=True)
 
