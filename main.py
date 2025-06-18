@@ -260,7 +260,7 @@ st.markdown("""
         Du kannst deine <strong>robots.txt</strong> auch unten im Fenster manuell eingeben:
     </div>
     <div style='font-size: 0.8rem; color: #666666; margin-top: -0.5rem; margin-bottom: 0.5rem;'>
-        Zum Beispiel findest du sie unter <code>https://deinewebsite.com/robots.txt</code>. Inhalt einfach hier einfügen.
+        Zum Beispiel findest du sie unter https://deinewebsite.com/robots.txt. Inhalt einfach in das Fenster darunter einfügen.
     </div>
 """, unsafe_allow_html=True)
 
