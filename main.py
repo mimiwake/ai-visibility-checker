@@ -335,7 +335,7 @@ st.markdown("""
     <h5>Datenschutz-Checkliste für robots.txt</h5>
     <p>Hilft dir, sensible Pfade auszuschließen und AI-Crawler gezielt zuzulassen.</p>
     <a href='https://raw.githubusercontent.com/mimiwake/ai-visibility-checker/main/AI%20Visibility%20Checker%20-%20CHECKLISTE.pdf' download>
-        🤖 <strong>Checkliste herunterladen (PDF)</strong>
+        <strong>Checkliste herunterladen (PDF)</strong>
     </a>
 </div>
 
