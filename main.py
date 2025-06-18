@@ -341,7 +341,8 @@ st.markdown("""
 
 <div class='footer-note'>
 Erstellt von @MNW – für mehr Sichtbarkeit im AI-Zeitalter.<br>
-🔐 Bitte lasse deine <strong>robots.txt</strong> im Zweifelsfall von deiner Agentur oder IT-Abteilung prüfen.
+🔐 Bitte lasse deine <strong>robots.txt</strong> immer von deiner Agentur oder IT-Abteilung prüfen. 
+Denn Sichtbarkeit darf niemals auf Kosten der Sicherheit gehen.
 </div>
 """, unsafe_allow_html=True)
 
